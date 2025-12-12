@@ -7,13 +7,15 @@ Due Dec 8 2025
 Detecting High Arousal and Low Emotional Valence Images to Inform Viewer Discretion
 
 ## Datasets
-1. NAPS(Nencki Affective Picture System)
+Please note that the datasets containing images are stored in Google Drive due to size restrictions on GitHub. Details on requesting access are below.
+1. EmoSet accessed via HuggingFace: https://huggingface.co/datasets/Woleek/EmoSet-118K
+2. NAPS(Nencki Affective Picture System)
 	Data in the NAPS_Data Folder
-2. OASIS(Open Affective Standardized Image Set)
+3. OASIS(Open Affective Standardized Image Set)
 	Data in the OASIS_Data Folder
-3. Radesky YouTube Dataset - Images Already Classified in the Radeskey Paper
+4. Radesky YouTube Dataset - Images Already Classified in the Radeskey Paper
 	Data in the Redesky_YT_Dataset Folder
-4. YT_images_exploratory
+5. YT_images_exploratory
 	Images that we personally pulled to label
 
  ## Code
@@ -33,3 +35,13 @@ Presentation
 3. If you would like to test one of your own images
 Add an image to “Redesky_YT_Dataset” and save it as “im_{xxx}” 
 Results will be listed right under the Block labeled “Check Below For Your Results” - simply find your image! “True” means it was censored, “False” means it was not.
+
+## Google Drive Paths to Image Datasets and Model Weights (Request Access)
+NAPS_H
+https://drive.google.com/drive/folders/1WnDMiHtGP8WBshoYuSvQxfKkrjJ06J28?usp=sharing
+OASIS_data
+https://drive.google.com/drive/folders/1djtJIebk_NRWAWVrmOOlIHGHU-GSLgLx?usp=sharing
+Radesky_YT_Dataset
+https://drive.google.com/drive/folders/1239OKr1z3vboAESEqtvuKsGB2QOaT4F9?usp=sharing
+YT_images_exploratory
+https://drive.google.com/drive/folders/1rVXeFZ6tZYdN7ZbR31ZvwrvyXys9Mo3T?usp=sharing
