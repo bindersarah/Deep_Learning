@@ -41,3 +41,4 @@ Results will be listed right under the Block labeled “Check Below For Your Res
 2. OASIS_data https://drive.google.com/drive/folders/1djtJIebk_NRWAWVrmOOlIHGHU-GSLgLx?usp=sharing
 3. Radesky_YT_Dataset https://drive.google.com/drive/folders/1239OKr1z3vboAESEqtvuKsGB2QOaT4F9?usp=sharing
 4. YT_images_exploratory https://drive.google.com/drive/folders/1rVXeFZ6tZYdN7ZbR31ZvwrvyXys9Mo3T?usp=sharing
+5. All Model Weights https://drive.google.com/drive/folders/1ARb06NwypgfhgnUKQ5AJIvCIxFRCQgQe?usp=sharing
