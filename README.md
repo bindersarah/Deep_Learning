@@ -1,4 +1,4 @@
-# Deep_Learning
+# CISC600 Deep Learning Course Project
 Dhrishti Hazari and Sarah Binder
 CISC6000 Deep Learning
 Project
