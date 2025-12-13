@@ -29,12 +29,11 @@ Presentation
 
 ## Steps to Run
 
-Run the FINAL RUN.ipynb file!
-ENSURE TO ENTER IN THE PATH WHERE YOU HAVE STORED ALL FILES
-Note that when loading in NAPS data you will need to edit the path_name. NAPS_H is uploaded directly to this repo. In our code NAPS_H is nested within 		NAPS_Data.
-If you would like to test one of your own images
-Add an image to “Redesky_YT_Dataset” and save it as “im_{xxx}” 
-Results will be listed right under the Block labeled “Check Below For Your Results” - simply find your image! “True” means it was censored, “False” means it was not.
+1. Run the FINAL RUN.ipynb file!
+2. ENSURE TO ENTER IN THE PATH WHERE YOU HAVE STORED ALL FILES
+3. Note that model weights are stroed within a folder on google drive.
+4. Note that when loading in NAPS data you will need to edit the path_name. NAPS_H is linked directly below. In our code NAPS_H is nested within NAPS_Data.
+5. If you would like to test one of your own images, add an image to “Redesky_YT_Dataset” and save it as “im_{xxx}” Results will be listed right under the Block labeled “Check Below For Your Results” - simply find your image! “True” means it was censored, “False” means it was not.
 
 ## Google Drive Paths to Image Datasets and Model Weights (Request Access)
 1. NAPS_H https://drive.google.com/drive/folders/1WnDMiHtGP8WBshoYuSvQxfKkrjJ06J28?usp=sharing
